@@ -3,3 +3,4 @@ backend/build
 backend/npm-debug.log
 backend/.env
 backend/.DS_Store
+backend/uploads/*
